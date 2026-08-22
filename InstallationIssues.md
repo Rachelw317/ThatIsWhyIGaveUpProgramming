@@ -1,4 +1,4 @@
-# 在AutoDL实例中配置 PyTorch 2.11.0 + CUDA 12.8 安装问题总结
+# 在AutoDL中配置 PyTorch 2.11.0 + CUDA 12.8
 
 ## 省流
 
